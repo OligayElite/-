@@ -1,1 +1,1 @@
-# -
+# CarbonIntegralSystem for School Competition
